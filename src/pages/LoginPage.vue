@@ -24,7 +24,7 @@
                     v-model.trim="username" 
                     type="text" 
                     class="form-control" 
-                    placeholder="kminchelle" 
+                    placeholder="emilys" 
                     required
                     :disabled="loading"
                   />
@@ -42,7 +42,7 @@
                     v-model.trim="password" 
                     type="password" 
                     class="form-control" 
-                    placeholder="0lelplR" 
+                    placeholder="emilyspass" 
                     required
                     :disabled="loading"
                   />
@@ -65,8 +65,8 @@
             <!-- Demo Credentials -->
             <div class="demo-credentials">
               <h6>Demo Credentials:</h6>
-              <p><strong>Username:</strong> kminchelle</p>
-              <p><strong>Password:</strong> 0lelplR</p>
+              <p><strong>Username:</strong> emilys</p>
+              <p><strong>Password:</strong> emilyspass</p>
             </div>
           </div>
         </div>
